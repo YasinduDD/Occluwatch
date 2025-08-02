@@ -1,0 +1,3 @@
+vehicle_id,image,predicted_plate,violation_frame,violation_time
+46,cropped_plates/plate_vid46_frame00571.png,PN-2257,redlight_violation_frames\violation_frame548_2025-07-23_23-12-49_46.jpg,2025-07-23_23-12-49
+53,cropped_plates/plate_vid53_frame00654.png,KH-0421,redlight_violation_frames\violation_frame614_2025-07-23_23-12-56_53.jpg,2025-07-23_23-12-56
