@@ -83,7 +83,21 @@ Occluwatch can:
 
 ---
 
-## 🎥 Example Results
+## 🎥 Demo Video
+
+[▶ **Watch Demo Video**](https://drive.google.com/file/d/1JyhW-yE2u9EEv0VNg4OAo105jIEy_ajq/view?usp=drive_lin)
+
+---
+
+## 🎥 Example Occlusion Handling Results
+
+| Before Occlusion | During Occlusion | After Occlusion |
+|---------------------|----------------|-------------------|
+| ![red-light-gif](docs/examples/beforeOcclusion.png) | ![lane-gif](docs/examples/duringOcclusion.png) | ![parking-gif](docs/examples/afterOcclusion.png) |
+
+---
+
+## 🎥 Example Violation Detection Results
 
 | Red Light Violation | Lane Violation | Parking Violation |
 |---------------------|----------------|-------------------|
@@ -103,7 +117,7 @@ Occluwatch can:
 
 ---
 
-\##💻 Hardware Requirements
+## 💻 Hardware Requirements
 
 * GPU: NVIDIA RTX 2070 (8GB VRAM) or higher recommended
 * RAM: ≥16 GB
@@ -112,7 +126,7 @@ Occluwatch can:
 
 ---
 
-\##👨‍💻 Authors
+## 👨‍💻 Authors
 
 * S.D.A.Y.D. Dissanayake – Vehicle Re‑ID, Occlusion Handling, System Integration
 * W.N.R. Fernando – Cross-Camera Mapping (GCN), Violation Detection
@@ -121,7 +135,7 @@ Occluwatch can:
 
 ---
 
-\##📬 Contact
+## 📬 Contact
 
 For inquiries, please contact:
 
