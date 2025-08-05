@@ -40,9 +40,11 @@ Occluwatch can:
 
 ---
 
-## 🛠 Model Pipeline
+## 🛠 Model Pipeline Overview
 
-![Pipeline Overview](docs/pipeline_overview.png)  
+<p align="center">
+  <img src="docs/pipeline_overview.png" alt="Pipeline Overview" width="50%">
+</p>
 
 ---
 
