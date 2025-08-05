@@ -42,7 +42,7 @@ Occluwatch can:
 
 ## 🛠 Model Pipeline
 
-![Pipeline Overview](docs/pipeline_overview)  
+![Pipeline Overview](docs/pipeline_overview.png)  
 
 ---
 
